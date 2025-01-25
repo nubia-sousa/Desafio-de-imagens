@@ -7,5 +7,5 @@ Em Project Details, selecione o Resource group já criado anteriormente, selecio
 Acessar https://portal.vision.cognitive.azure.com/
 Selecionar "Ver todos os recursos" e em seguida selecione o recurso criado anteriormente, clicar em "Selecionar como recurso padrão" e fechar a janela.
 No Estúdio de Visão, Selecione "Reconhecimento óptico de caracteres". Selecione "Experimentar" no quadro "Extrair texto de imagens".
-Ao selecionar escolher o arquivo de imagem contendo texto, as palavras são detectadas. A transcrição do texto escrito à mão pode não ser totalmente fidedigna ao que está escrito.
+Ao selecionar escolher o arquivo de imagem contendo texto, as palavras são identificadas. A transcrição do texto escrito à mão pode não ser totalmente fidedigna ao que está escrito.
 
