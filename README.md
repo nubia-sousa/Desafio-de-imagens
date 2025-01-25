@@ -1,6 +1,6 @@
 Repositório criado para o Desafio de Reconhecimento Facial e transformação de imagens em dados no Azure ML.
 Passo a passo para a criação:
-1. Acessar o portal Azure https://azure.microsoft.com/pt-br/
+Acessar o portal Azure https://azure.microsoft.com/pt-br/
 selecione "Criar um recurso" no menu lateral esquerdo
 Em Categorias, selecionar "AI + Machine Learning", em seguida "Azure AI Services" e Criar.
 Em Project Details, selecione o Resource group já criado anteriormente, selecione a região e atribua um nome de sua preferência. Em tipo de preço, Standard S0 e clica em "Revisar+criar"
